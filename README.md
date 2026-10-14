@@ -4,7 +4,7 @@ My personal portfolio website: a single place to see who I am, what I've built a
 
 The site lives in the [`MyPortfolio`](./MyPortfolio) project.
 
-> **Live site:** [add link here]
+> **Live site:** https://onthatile77.github.io/My-Portfolio/MyPortfolio/
 
 ## About me
 
