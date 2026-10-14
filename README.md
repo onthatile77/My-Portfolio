@@ -28,25 +28,6 @@ I'm Moila Leatile Onthatile, a final-year BSc Information Technology student at 
 | Styling | [e.g. CSS / Bootstrap] |
 | Hosting | [e.g. Azure / GitHub Pages / Netlify, or "not yet deployed"] |
 
-## Getting started
-
-### Prerequisites
-
-- [.NET SDK](https://dotnet.microsoft.com/download) [version]
-
-### Run locally
-
-```bash
-# Clone the repository
-git clone https://github.com/onthatile77/My-Portfolio.git
-cd My-Portfolio/MyPortfolio
-
-# Restore dependencies and run
-dotnet restore
-dotnet run
-```
-
-Then open the URL printed in the console in your browser.
 
 ## Featured projects
 
@@ -58,7 +39,8 @@ Then open the URL printed in the console in your browser.
 
 ## Screenshots
 
-[Add 1-2 screenshots here, e.g. `![Home page](docs/home.png)`]
+<img width="943" height="482" alt="{8254C614-23A5-4AC7-B486-A16BF2427719}" src="https://github.com/user-attachments/assets/e61000bd-695f-4f65-870c-656b4e28695e" />
+
 
 ## Contact
 
